@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ChargingStatus (Package)": {
+      "commandName": "MsixPackage",
+      "commandLineArgs": "-RegisterProcessAsComServer",
+      "doNotLaunchApp": true
+    }
+  }
+}

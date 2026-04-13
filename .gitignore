@@ -1,0 +1,10 @@
+.dotnet/
+.vs/
+cert/
+**/bin/
+**/obj/
+**/Generated Files/
+*.user
+*.suo
+*.pfx
+*.snk
